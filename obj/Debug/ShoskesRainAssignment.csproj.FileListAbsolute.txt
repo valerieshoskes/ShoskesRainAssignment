@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRainAssignment\ShoskesRainAssignment\bin\Debug\ShoskesRainAssignment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRainAssignment\ShoskesRainAssignment\bin\Debug\ShoskesRainAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRainAssignment\ShoskesRainAssignment\bin\Debug\ShoskesRainAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRainAssignment\ShoskesRainAssignment\obj\Debug\ShoskesRainAssignment.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRainAssignment\ShoskesRainAssignment\obj\Debug\ShoskesRainAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesRainAssignment\ShoskesRainAssignment\obj\Debug\ShoskesRainAssignment.pdb
